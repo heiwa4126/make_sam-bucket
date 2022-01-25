@@ -1,0 +1,8 @@
+AWS_ACCESS_KEY_ID=xxxxxxxxxxxxxxxxx
+AWS_SECRET_ACCESS_KEY=xxxxxxxxxxxxxxxxxxxxxxxxx
+AWS_DEFAULT_REGION=ap-northeast-1
+
+export AWS_ACCESS_KEY_ID
+export AWS_SECRET_ACCESS_KEY
+export AWS_DEFAULT_REGION
+#aws sts get-caller-identity
